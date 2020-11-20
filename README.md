@@ -1,7 +1,5 @@
 # SetColors
 
-***THIS PROJECT IS UNDER CONSTRUCTION, BUT ALL FILES ARE AVAILABLE IN THE 'PRE-RELEASE' IN RELEASES. COMING VERY SOON.***
-
 Just another way to set *colors* in ***Linux*** shells.
 
 ![Logo Icon](docs/media/icon/icon.png)
