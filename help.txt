@@ -1,0 +1,27 @@
+
+ Set console colors.
+ E.g. setcolors 1 31 107 
+      setcolors 4;echo "file:///${HOME}/Documents"
+
+ @USAGE:
+	setcolors [OPTIONS...]
+	setcolors [COLORS...]
+
+ @OPTIONS:
+	-h,--help	This HELP message.
+
+ @COLORS:
+	Integers	Any amount of numbers
+			from the list below.
+	0-5		Various styles.
+	30-37		Darker foreground colors.
+	90-97		Lighter foreground colors.
+	40-47		Darker background colors.
+	100-107		Lighter background colors.
+
+ @ERRORS: Integers - Exit Codes.
+	0		No errors.
+	1		Passed arguments are not integers
+			between 0-255.
+	2		Error in 'printf'.
+

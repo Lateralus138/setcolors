@@ -1,0 +1,10 @@
+Package: setcolors             
+Version: 1.0.0.0             
+Section: Miscellaneous             
+Priority: optional             
+Depends:              
+Architecture: amd64 
+Essential: no             
+Installed-Size: 3944             
+Maintainer: https://github.com/Lateralus138             
+Description: Set *nix shell colors; written in Rust.             

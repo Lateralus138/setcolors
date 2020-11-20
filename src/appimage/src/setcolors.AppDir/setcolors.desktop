@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=setcolors
+Exec=setcolors %F
+Icon=setcolors
+Terminal=true
+Type=Application
+Categories=Utility;

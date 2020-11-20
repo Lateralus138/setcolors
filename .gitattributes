@@ -1,0 +1,9 @@
+*.rs linguist-detectable=true
+*.sh linguist-detectable=false
+AppRun linguist-detectable=false
+*.toml linguist-detectable=false
+*.lock linguist-detectable=false
+*.json linguist-detectable=false
+*.timestamp linguist-detectable=false
+*.xml linguist-detectable=false
+*.desktop linguist-detectable=false
