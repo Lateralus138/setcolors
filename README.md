@@ -1,7 +1,7 @@
 # SetColors
 
 <a class="twitter-share-button"
-  href="https://twitter.com/share?ref_src=twsrc%5Etfw&text='UniShellect'%20-%20Just%20another%20way%20to%20set%20colors%20in%20Linux%20shells.%0A%0AThis%20is%20a%20command%20line%20utility%20that%20is%20a%20wrapper%20for%20setting%20colors%20in%20Linux%20shells%2Fconsoles%2Fterminals%2Fttys...%0A%0AWritten%20in%20%23RustLang%20for%20%23Linux%0A%23Programming%20%23Coding%20via%20%40thefluxapex">![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FLateralus138%2Fsetcolors)</a> this project.
+  href="https://twitter.com/share?ref_src=twsrc%5Etfw&text='SetColors'%20-%20Just%20another%20way%20to%20set%20colors%20in%20Linux%20shells.%0A%0AThis%20is%20a%20command%20line%20utility%20that%20is%20a%20wrapper%20for%20setting%20colors%20in%20Linux%20shells%2Fconsoles%2Fterminals%2Fttys...%0A%0AWritten%20in%20%23RustLang%20for%20%23Linux%0A%23Programming%20%23Coding%20via%20%40thefluxapex">![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FLateralus138%2Fsetcolors)</a> this project.
 
 Just another way to set *colors* in ***Linux*** shells.
 
