@@ -253,5 +253,5 @@ Get the files directly from here if you like.
 
 ---
 
-![TEST](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/setcolors/master/docs/endpoint.json)
+![The Flux Apex @ New Pride Services](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/setcolors/master/docs/endpoint.json)
 
