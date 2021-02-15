@@ -1,8 +1,9 @@
 {
-  "schemaVersion": 1,
-  "label": "The Flux Apex",
-  "message": "New Pride Services",
-  "color": "b91d47",
-  "labelColor": "1d1d1d",
-  "style": "for-the-badge"
+    "schemaVersion": 1,
+    "label": "The Flux Apex",
+    "message": "New Pride Services",
+    "color": "b91d47",
+    "labelColor": "1d1d1d",
+    "style": "for-the-badge",
+    "namedLogo": "linux"
 }
