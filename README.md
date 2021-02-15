@@ -252,3 +252,6 @@ Get the files directly from here if you like.
 |Total downloads for this project|![GitHub all releases](https://img.shields.io/github/downloads/Lateralus138/setcolors/total?style=for-the-badge&color=b91d47&labelColor=1d1d1d)|
 
 ---
+
+![TEST](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/setcolors/master/docs/endpoint.json)
+
