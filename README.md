@@ -5,7 +5,12 @@
 
 Just another way to set *colors* in ***Linux*** shells.
 
-![Logo Icon](docs/media/icon/icon.png)
+<details>
+<summary>New C++ Version</summary>
+I will be re-writing this in C++ with more features. Probably coming the end of 2020 or the beginning of 2021.
+</details>
+
+![Logo Icon](./docs/media/icon/icon.png)
 
 |`Build`|`Status`|
 |---:|:---|
@@ -250,6 +255,8 @@ Get the files directly from here if you like.
 |Description|Status|
 |:---:|:---:|
 |Total downloads for this project|![GitHub all releases](https://img.shields.io/github/downloads/Lateralus138/setcolors/total?style=for-the-badge&color=b91d47&labelColor=1d1d1d)|
+
+![GitHub all releases](https://img.shields.io/github/downloads/Lateralus138/setcolors/total?style=for-the-badge&color=b91d47&labelColor=1d1d1d)
 
 ---
 
